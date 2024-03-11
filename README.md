@@ -1,7 +1,7 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://komarev.com/ghpvc/?username=Bossrealz&&style=plastics&&color=yellow" align="right"/> </p>
 
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
@@ -19,8 +19,8 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
-<a href="https://discord.gg/hanzelkaraagac">
+<img align="center" width="400" src="https://github.com/Bosssrealz/Bosssrealz/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
+<a href="https://discord.gg/botstore">
 <strong> Click here to join our Discord server ⬅️ </a>
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
@@ -37,22 +37,22 @@
 <br>
 
  <div align="center"> 
-  <a href="https://www.youtube.com/@hanzelkaraagac" target="_blank">
+  <a href="https://www.youtube.com/@bossrealz" target="_blank">
     <img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/hanzelkaraagac/" target="_blank">
+  <a href="https://www.linkedin.com/in/bosssrealz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
   <a href = "mailto:hanzelkaraagaac@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
-  <a href="https://medium.com/@hanzelkaraagac">
+  <a href="https://medium.com/@bosssrealz">
    <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://twitter.com/hanzelkaraagac">
+  <a href="https://twitter.com/bosssrealz">
    <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
   </a>
-  <a href="https://www.instagram.com/hanzelkaraagac/?hl=tr" target="_blank">
+  <a href="https://www.instagram.com/bosssrealz/?hl=tr" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
   <a href="https://discord.com/servers/software-library-1030166206025568356" target="_blank">
@@ -105,13 +105,13 @@ jobs:
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bosssrealz&theme=dark&background=000000"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bosssrealz&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hanzelkaraagac)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Bosssrealz)
 
 
